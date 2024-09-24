@@ -1,6 +1,8 @@
 # Curvetopia (Adobe GenSolve 2024)
 
-This project is dedicated to identifying, regularizing, and beautifying 2D curves. Our mission is to process curves from line art, regularize them, identify symmetry, and complete incomplete curves, ultimately representing them as a set of cubic Bézier curves.
+![Adobe GenSolve](https://github.com/user-attachments/assets/0fc954a7-d2f7-4dd0-8aee-e49003399b04)
+
+Welcome to **Curvetopia**! This project is dedicated to identifying, regularizing, and beautifying 2D curves. Our mission is to process curves from line art, regularize them, identify symmetry, and complete incomplete curves, ultimately representing them as a set of cubic Bézier curves.
 
 Developed as part of the ***2nd round of Adobe GenSolve 2024***, focusing on advancing capabilities in curve recognition and regularization using computer vision techniques. The following code snippets demonstrate the algorithms used for regularizing curves and identifying shapes.
 
